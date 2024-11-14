@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(228, 207, 180);
+}
+
+#text {
+    font-size: 50px ;
+    text-align: center;
+}
+
+#bullets {
+    font-size: 30px;
+    color: red;
+}
